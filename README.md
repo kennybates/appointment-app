@@ -1,3 +1,15 @@
+# Project Overview
+
+A simple ReactJS app that allows a user to select a given time slot and enter name and phone number into modal to reserve appointment.
+
+# Application requirements:
+
+1. Build a screen which shows a list of hour long time slots from 9 a.m. to 5 p.m.
+2. When one time slot is clicked, pop up a modal which asks for name and phone number.
+3. When the name and phone number is submitted, the time slot selected should change to red, indicating the time slot is no longer available.
+4. If the red time slot is clicked again, the modal will pop up with the name and phone number for that appointment pre-populated. Users will be able to edit the name and phone number to change the user for the appointment.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
